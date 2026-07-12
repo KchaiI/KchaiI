@@ -10,30 +10,6 @@
 
 <br />
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KchaiI&theme=tokyonight&hide_border=true" />
-</p>
-
-<br />
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KchaiI&theme=tokyo-night&hide_border=true" />
-</p>
-
-<br />
-
-### 🧊 3D Contribution Graph
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
-
-<br />
-
 ### 🐍 Contribution Snake
 
 <p align="center">
