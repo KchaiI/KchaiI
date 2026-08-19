@@ -1,3 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Kaichi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
+
+### 🎧 Now Playing
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31osmeztvsc3nkyk5sy3kzeexzjm&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true&profanity=true&hide_remaster=true" />
+  </a>
+</p>
