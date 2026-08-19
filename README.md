@@ -7,11 +7,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,ts,js,py,go,ruby,html,css,git,githubactions,docker,kubernetes,terraform,aws,vercel,supabase,postgres,prisma,fastapi,next,tailwind,jquery,p5js,pytorch,grafana,figma&perline=10&theme=dark" />
 </p>
-
-<br />
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KchaiI/KchaiI/output/github-contribution-grid-snake.svg" />
-</p>
